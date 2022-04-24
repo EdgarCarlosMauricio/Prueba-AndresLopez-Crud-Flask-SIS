@@ -1,3 +1,17 @@
+## INSTRUCCIONES QUE FALTARON
+Instalar Dependencias Directamente ya que esta en python 3.9 y ya todo esta un .10 o .11 y devolverse es complicado
+pip3 install flask flask-sqlalchemy flask-marshmallow marshmallow-sqlalchemy flask-httpauthflask-httpauth werkzeug
+
+python3 ./app.py
+
+http://127.0.0.1:5000/
+Pide auth
+Son login:andy pass:password
+o test pass: pwd
+
+http://127.0.0.1:5000/create/
+http://127.0.0.1:5000/all/
+
 # REST API With Flask & SQL Alchemy
 
 <img src="https://www.ncrts.com/public/images/webapp-banner.jpg">
